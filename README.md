@@ -4,3 +4,4 @@
 各回の講義は、以下のリンクより行かれます。講義資料のPDFファイルは、スライド形式のものと1ページ4スライドの配付資料形式（1P4.pdf）がありますが、形式が異なるだけで内容は同じです。</br>
 [1回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/a80d83d6c27dd6f0e5dacfc1f42e38ab10e4c0c5/README.md)</br>
 [2回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/1a1618fc1904643cfd5271e344ab5b1acd287ff5/README.md)</br>
+[3回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/d0c300cec215218fdc61a035252a9b5c2d2126d3/README.md)>/br>
