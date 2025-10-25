@@ -1,3 +1,3 @@
 # 03
 ここは3回目講義の資料です。</br>
-講義動画はこちらから－＞https://youtu.be/jJB3bbXoN8w
+3回目の講義動画はこちらから－＞https://youtu.be/jJB3bbXoN8w
