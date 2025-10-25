@@ -2,4 +2,4 @@
 ここは2025年に、高柳が川崎市立看護大学大学院看護学研究科前期博士課程で行っている講義「統計学（基礎）」の講義資料とデモ用データを置いているところです。</br>
 なお、デモデータについては高柳作成のもののみ置いてあります。講義中に使用しているJASPのデータライブラリのデータはここにはありません。当該データは、</br>JASPのデータライブラリより利用してください。</br>
 各会の講義資料は、講義回毎のフォルダ（01～）に分かれています。PDFファイルは、スライド形式のものと1ページ4スライドの配付資料形式（1P4.pdf）がありますが、</br>形式が異なるだけで内容は同じです。</br>
-[1回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/a80d83d6c27dd6f0e5dacfc1f42e38ab10e4c0c5/README.md)
+[1回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/a80d83d6c27dd6f0e5dacfc1f42e38ab10e4c0c5/README.md)</br>
