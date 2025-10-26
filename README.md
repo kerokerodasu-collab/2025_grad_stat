@@ -7,9 +7,9 @@
 (Windowsの場合はCtrlキー、Macはcommandキーを押しながらクリックすると、ブラウザの別タブで動画が開きます。右クリックでメニューからダウンロードができます。)</br>
 * 講義内で使用しているデータはこちらです。</br>
   * [data05_01_Excel説明用.xlsx](data05_01_Excel説明用.xlsx)  </br>
-  * [data05_01_test_100.csv](data05_01_test_100.csv)  </br>
-  * [data05_01_test_500.csv](data05_01_test_500.csv)  </br>
-  * [data05_02_test.csv](data05_02_test.csv)  </br>
+  * [data05_01_text_100.csv](data05_01_text_100.csv)  </br>
+  * [data05_01_text_500.csv](data05_01_text_500.csv)  </br>
+  * [data05_02_text.csv](data05_02_text.csv)  </br>
 (右クリックでメニューからダウンロードができます。)</br> 
 * 講義動画はこちらから。 </br>
   * [5回目講義](https://youtu.be/04o64_2jFF0)</br>
