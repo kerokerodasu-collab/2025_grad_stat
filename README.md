@@ -5,7 +5,12 @@
   * [1ページ4スライド](2025統計学_基礎04_1P4.pdf)　</br>
 (Windowsの場合はCtrlキー、Macはcommandキーを押しながらクリックすると、ブラウザの別タブで動画が開きます。右クリックでメニューからダウンロードができます。)</br>
 * 講義内で使用しているデータはこちらです。</br>
-  * [02_utf8_data.csv](02_utf8_data.csv)  </br>
+  * [data04_01.csv](data04_01.csv)  </br>
+  * [data04_01_count.csv](data04_01_count.csv)  </br>
+  * [data04_01_text.csv](data04_01_text.csv)  </br>
+  * [data04_02.csv](data04_02.csv)  </br>
+  * [data04_02_count.csv](data04_02_count.csv)  </br>
+  * [data04_02_text.csv](data04_02_text.csv)  </br>
 (右クリックでメニューからダウンロードができます。)</br> 
 * 講義動画はこちらから。 </br>
   * [4回目講義](https://youtu.be/0Z6dNCh8UJ8)</br>
