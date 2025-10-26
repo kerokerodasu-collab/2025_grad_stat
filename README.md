@@ -3,6 +3,6 @@
 なお、デモデータについては高柳作成のもののみ置いてあります。講義中に使用しているJASPのデータライブラリのデータはここにはありません。当該データは、ASPのデータライブラリより利用してください。</br>
 各回の講義は、以下のリンクより行かれます。講義資料のPDFファイルは、スライド形式のものと1ページ4スライドの配付資料形式（1P4.pdf）がありますが、形式が異なるだけで内容は同じです。</br>
 [1回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/01/README.md#01)</br>
-[2回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/1a1618fc1904643cfd5271e344ab5b1acd287ff5/README.md)</br>
-[3回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/d0c300cec215218fdc61a035252a9b5c2d2126d3/README.md)</br>
-[4回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/3efe523aad7eecd56e4bbe4e775ba83756281fdc/README.md)
+[2回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/02/README.md#02)</br>
+[3回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/03/README.md#03)</br>
+[4回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/04/README.md#04))
