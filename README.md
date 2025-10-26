@@ -6,4 +6,5 @@
 [2回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/02/README.md#02)</br>
 [3回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/03/README.md#03)</br>
 [4回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/04/README.md#04)</br>
-[5回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/05/README.md#05)
+[5回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/05/README.md#05)</br>
+[6回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/06/README.md#06)
