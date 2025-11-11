@@ -9,6 +9,6 @@
   * [data07_01csv](data07_01.csv)  </br>
 (右クリックでメニューからダウンロードができます。)</br> 
 * 講義動画はこちらから。 </br>
-  * [7回目講義](https://youtu.be/Cx1bGx9VXFk))</br>
+  * [7回目講義](https://youtu.be/Cx1bGx9VXFk)</br>
 (Windowsの場合はCtrlキー、Macはcommandキーを押しながらクリックすると、ブラウザの別タブで動画が開きます。)</br>
 * 最初に戻るには[こちら](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/main/README.md#2025_grad_stat)
