@@ -8,7 +8,8 @@
 * [4回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/04/README.md#04)</br>
 * [5回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/05/README.md#05)</br>
 * [6回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/06/README.md#06)</br>
-* [7回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/07/README.md#07)
-  * 講義資料のpdfファイルは、スライド形式のものと1ページ4スライドの配付資料形式（1P4.pdf）がありますが、形式が異なるだけで内容は同じです。</br>
+* [7回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/07/README.md#07)</br>
+* [8回目講義](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/08/README.md#08)
+* 講義資料のpdfファイルは、スライド形式のものと1ページ4スライドの配付資料形式（1P4.pdf）がありますが、形式が異なるだけで内容は同じです。</br>
   * pdfファイルやデータファイルは、Windowsは右クリックから「名前をつけてリンク先を保存」Macは「リンク先のファイルをダウンロード」などのメニューで保存ができます。※ブラウザによって、「名前をつけてリンクを保存」「リンク先を別名で保存」など多少表記が異なります。</br>
   * 動画はWindowsの場合はCtrlキー、Macはcommandキーを押しながらクリックすると、ブラウザの別タブで動画が開きます。</br>
