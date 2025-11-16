@@ -10,6 +10,6 @@
   * [data08_02csv](data08_02.csv)  </br>
 (右クリックでメニューからダウンロードができます。)</br> 
 * 講義動画はこちらから。 </br>
-  * [8回目講義](https://youtu.be/Cx1bGx9VXFk)</br>
+  * [8回目講義](https://youtu.be/6kdnAg1flLU)</br>
 (Windowsの場合はCtrlキー、Macはcommandキーを押しながらクリックすると、ブラウザの別タブで動画が開きます。)</br>
 * 最初に戻るには[こちら](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/main/README.md#2025_grad_stat)
