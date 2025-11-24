@@ -10,12 +10,12 @@
 * [6回目講義 量的変数の順序化と度数分布表・ヒストグラム ](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/06/README.md#06)</br>
 * [7回目講義 母集団の等分散性の判断と２群の平均値の差の検定 ](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/07/README.md#07)</br>
 * [8回目講義 対応のあるｔ検定 ](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/08/README.md#08)</br>
-* [9回目講義　一元配置分散分析と多重比較](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/09/README.md#09) </br>
-* 10回目講義　ノンパラメトリック検定 </br>
-* 11回目講義　	相関と相関係数の検定 </br>
-* 12回目講義　重回帰分析 </br>
-* 13回目講義　多変量解析法概説 </br>
-* 14回目講義　ベイズ統計概説 </br>
+* [9回目講義 一元配置分散分析と多重比較](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/09/README.md#09) </br>
+* 10回目講義 ノンパラメトリック検定 </br>
+* 11回目講義 	相関と相関係数の検定 </br>
+* 12回目講義 重回帰分析 </br>
+* 13回目講義 多変量解析法概説 </br>
+* 14回目講義 ベイズ統計概説 </br>
 * 講義資料のpdfファイルは、スライド形式のものと1ページ4スライドの配付資料形式（1P4.pdf）がありますが、形式が異なるだけで内容は同じです。</br>
   * pdfファイルやデータファイルは、Windowsは右クリックから「名前をつけてリンク先を保存」Macは「リンク先のファイルをダウンロード」などのメニューで保存ができます。※ブラウザによって、「名前をつけてリンクを保存」「リンク先を別名で保存」など多少表記が異なります。</br>
   * 動画はWindowsの場合はCtrlキー、Macはcommandキーを押しながらクリックすると、ブラウザの別タブで動画が開きます。</br>
