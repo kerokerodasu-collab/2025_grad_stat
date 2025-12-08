@@ -9,7 +9,6 @@
   * [data11_01csv](data11_01.csv)  </br>
   * [data11_02csv](data11_02.csv)  </br>
   * [data11_03csv](data11_03.csv)  </br>
-  * [data11_04csv](data11_04.csv)  </br>
 (右クリックでメニューからダウンロードができます。)</br> 
 * 講義動画はこちらから。 </br>
   * [11回目講義](https://youtu.be/9FAtL51dG1o)</br> 
