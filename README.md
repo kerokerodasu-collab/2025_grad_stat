@@ -9,7 +9,7 @@
   * [data12_01csv](data12_01.csv)  </br>
   * [data12_02csv](data12_02.csv)  </br>
   * [data12_03csv](data12_03.csv)  </br>
-  * [data12_04csv](data12_03.csv)  </br>
+  * [data12_04csv](data12_04.csv)  </br>
 (右クリックでメニューからダウンロードができます。)</br> 
 * 講義動画はこちらから。 </br>
   * [12回目講義](https://youtu.be/WB0uN1lyrxA)</br> 
