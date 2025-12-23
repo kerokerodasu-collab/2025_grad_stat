@@ -14,7 +14,7 @@
 * [10回目講義 ノンパラメトリック検定](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/10/README.md#10) </br>
 * [11回目講義 	相関と相関係数の検定](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/11/README.md#11) </br>
 * [12回目講義 重回帰分析](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/12/README.md#12) </br>
-* 13回目講義 多変量解析法概説 </br>
+* [13回目講義 多変量解析法概説] (https://github.com/kerokerodasu-collab/2025_grad_stat/blob/13/README.md#13) </br>
 * 14回目講義 ベイズ統計概説 </br>
 * 講義資料のpdfファイルは、スライド形式のものと1ページ4スライドの配付資料形式（1P4.pdf）がありますが、形式が異なるだけで内容は同じです。</br>
   * pdfファイルやデータファイルは、Windowsは右クリックから「名前をつけてリンク先を保存」Macは「リンク先のファイルをダウンロード」などのメニューで保存ができます。※ブラウザによって、「名前をつけてリンクを保存」「リンク先を別名で保存」など多少表記が異なります。</br>
