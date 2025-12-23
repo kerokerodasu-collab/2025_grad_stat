@@ -8,9 +8,7 @@
 * 講義内で使用しているデータはこちらです。</br>
   * [data13_01csv](data13_01.csv)  </br>
   * [data13_02csv](data13_02.csv)  </br>
-  * [data13_03csv](data13_03.csv)  </br>
-  * [data13_04csv](data13_03.csv)  </br>
-(右クリックでメニューからダウンロードができます。)</br> 
+ (右クリックでメニューからダウンロードができます。)</br> 
 * 講義動画はこちらから。 </br>
   * [13回目講義](https://youtu.be/C8ECnbkdlA0)</br> 
   (Windowsの場合はCtrlキー、Macはcommandキーを押しながらクリックすると、ブラウザの別タブで動画が開きます。)</br>
