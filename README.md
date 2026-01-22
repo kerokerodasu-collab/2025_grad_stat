@@ -14,7 +14,7 @@
   (右クリックでメニューからダウンロードができます。)</br>
 ---
 ### 講義動画はこちらから。</br>
-   [14回目講義](https://youtu.be/SlgeQ5glggA)</br>
+ -  [14回目講義](https://youtu.be/SlgeQ5glggA)</br>
 
 
   (Windowsの場合はCtrlキー、Macはcommandキーを押しながらクリックすると、ブラウザの別タブで動画が開きます。)</br>
