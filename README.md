@@ -6,7 +6,9 @@
   - [1ページ4スライド](2025統計学_基礎14_1P4.pdf)</br>
 
 (Windowsは右クリックから「名前をつけてリンク先を保存」Macは「リンク先のファイルをダウンロード」などのメニューで保存ができます。※ブラウザによって、多少表記が異なります。)</br>
+
 ---
+
 ### 講義内で使用しているデータはこちらです。</br>
   - [data14_01csv](data14_01.csv)  </br>
   (右クリックでメニューからダウンロードができます。)</br>
@@ -14,7 +16,9 @@
 ### 講義動画はこちらから。</br>
    [14回目講義](https://youtu.be/SlgeQ5glggA)</br>
 
+
   (Windowsの場合はCtrlキー、Macはcommandキーを押しながらクリックすると、ブラウザの別タブで動画が開きます。)</br>
+
 ---
   
 * 最初に戻るには[こちら](https://github.com/kerokerodasu-collab/2025_grad_stat/blob/main/README.md#2025_grad_stat)
